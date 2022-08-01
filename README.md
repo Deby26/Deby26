@@ -11,8 +11,8 @@ En la actualidad me encuentro reforzando lo aprendido en el bootcamp que he real
 Soy de profesión Nutricionista Clínica pero hace muy poco tambien soy Desarolladora de Aplicaciones Full Stack Java. 
 
 - 💞️  ¿Cuáles son tus experiencias previas? y en caso de que no tengas ¿por qué deberían contactarte?
-Poseo experiencia en diversas areas, pero las ultimas han sido en el mundo de la nutricion en el area privada, cuidado de pequeños, educacion en diabetes, clases de 
-ayuda para diversos materias del area de la nutricion y/o biologia. Y actualmente me encuentro formando parte del proyecto de Talento digital para Chile en donde me 
+Poseo experiencia en diversas áreas, pero las ultimas han sido en el mundo de la nutrición en el área privada, cuidado de pequeños, educacián en diabetes, clases de 
+ayuda para diversos materias del área de la nutrición y/o biología. Y actualmente me encuentro formando parte del proyecto de Talento digital para Chile en donde me 
 encuentro finalizando un bootcamp en Desarrollo de Aplicaciones Full Stack Java. 
 Me deberian contactar porque me encuentro con todas las ganas de seguir aprendiendo más y porque a sido un camino lleno de aprendizajes y el cual me ha fascinado y 
 deseo poder sumergirme mucho mas aun en el. 
